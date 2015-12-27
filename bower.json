@@ -1,0 +1,25 @@
+{
+  "name": "foundation-flex-grid",
+  "authors": [
+    "Pablo-Rodriguez <pablorp1996@gmail.com>"
+  ],
+  "description": "A polymer wrapper for the foundation 6 grid system",
+  "main": "foundation-grid.html",
+  "moduleType": [],
+  "keywords": [
+    "foundation",
+    "grid",
+    "polymer",
+    "web",
+    "components"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
